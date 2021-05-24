@@ -20,3 +20,5 @@ python svm.py --train ./Breast_cancer_data.csv --test ./Breast_cancer_data.csv -
 python3 gmm.py --components 1 --train /path/to/optdigits.train --test /path/to/optdigits.test
 python3 gmm.py --components 3 --train /path/to/optdigits.train --test /path/to/optdigits.test
 python3 gmm.py --components 4 --train /path/to/optdigits.train --test /path/to/optdigits.test
+
+All datasets and models must have the same file path.
