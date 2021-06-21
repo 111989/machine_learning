@@ -3,7 +3,8 @@ The training and testing datasets for MNIST are from the official website.
 These are called mnist_train.csv and mnist_test.csv respectively. 
 
 Refer to svm.pdf for more information about SVM and the mathematical concepts 
-involved, and to perceptron_adaboost.pdf for Perceptron and Adaboost.
+involved, and to perceptron_adaboost.pdf for Perceptron and Adaboost. Said 
+files can be found in 'Reports' folder.
 
 
 
@@ -25,7 +26,6 @@ python svm.py --train ./Breast_cancer_data.csv --test ./Breast_cancer_data.csv -
 python3 gmm.py --components 1 --train /path/to/optdigits.train --test /path/to/optdigits.test
 python3 gmm.py --components 3 --train /path/to/optdigits.train --test /path/to/optdigits.test
 python3 gmm.py --components 4 --train /path/to/optdigits.train --test /path/to/optdigits.test
-
 
 
 
