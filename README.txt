@@ -2,8 +2,8 @@ Datasets for GMM were collected from UC Irvine's Machine Learning Repository.
 The training and testing datasets for MNIST are from the official website. 
 These are called mnist_train.csv and mnist_test.csv respectively. 
 
-Refer to svm.pdf for more information about svm and the 
-mathematical concepts involved. 
+Refer to svm.pdf for more information about SVM and the mathematical concepts 
+involved, and to perceptron_adaboost.pdf for Perceptron and Adaboost.
 
 
 
