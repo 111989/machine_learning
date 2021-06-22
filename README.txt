@@ -4,7 +4,7 @@ These are called mnist_train.csv and mnist_test.csv respectively.
 
 Refer to svm.pdf for more information about SVM and the mathematical concepts 
 involved, and to perceptron_adaboost.pdf for Perceptron and Adaboost. Said 
-files can be found in 'Reports' folder.
+files can be found in 'reports' folder.
 
 
 
